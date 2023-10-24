@@ -14,7 +14,8 @@
       "worker": "./dist/aws4fetch.esm.js",
       "browser": "./dist/aws4fetch.umd.js",
       "require": "./dist/aws4fetch.cjs.js",
-      "default": "./dist/aws4fetch.umd.js"
+      "default": "./dist/aws4fetch.umd.js",
+      "types": "./dist/main.d.ts"
     }
   },
   "types": "dist/main.d.ts",
